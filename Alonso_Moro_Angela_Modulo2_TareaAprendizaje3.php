@@ -63,4 +63,4 @@ $nom = trim($nom);
 echo buscar($nom, $contactos);
 
 
-// Ejercicio 3: Gestión de Inventario de Productos (Intermedio)
+// Ejercicio 3: Gestión de Inventario de Productos (Intermedio) - Carpeta a parte

@@ -201,7 +201,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $_SESSION['errores'] = $errores;
     $_SESSION['aciertos'] = $aciertos;
 
-    var_dump($errores);
 
     if (empty($errores)) {
         $_SESSION['estado'] = 'valido';

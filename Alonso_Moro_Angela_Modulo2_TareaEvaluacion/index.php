@@ -34,7 +34,7 @@
             <br>
 
             <label for="duracion">Duración de la reserva en días:</label>
-            <input type="number" id="duracion" name="duracion" min="1">
+            <input type="number" id="duracion" name="duracion">
             <br>
 
             <button type="submit">Reservar</button>
